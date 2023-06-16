@@ -1,0 +1,15 @@
+{
+  "name": "npm-global-test-sass-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass-loader": "^13.3.2"
+  }
+}
